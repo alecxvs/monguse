@@ -9,8 +9,8 @@
             "type": "go",
             "request": "launch",
             "mode": "debug",
-            "program": "${workspaceFolder}/src/monguse/cmd/monguse.go",
-            "console": "integratedTerminal",
+            "program": "${workspaceFolder}/src/cmd/monguse.go",
+            "console": "externalTerminal",
             "internalConsoleOptions": "openOnFirstSessionStart"
         }
     ]
