@@ -4,7 +4,7 @@ go 1.23.1
 
 require (
 	github.com/andygrunwald/vdf v1.1.0
-	github.com/go-viper/mapstructure/v2 v2.1.0
+	github.com/go-viper/mapstructure/v2 v2.2.1
 	golang.org/x/sys v0.25.0
 )
 
